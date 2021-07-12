@@ -71,3 +71,4 @@ function App({ slides }) {
 }
 
 export default App;
+//https://codesandbox.io/s/vigilant-snowflake-2hc1u?file=/src/App.js
